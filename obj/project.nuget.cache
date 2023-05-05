@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ca7mQtXDTNW7aaS3LIzMzUfCOu1s8roR87Vc/Gp9dCeU4r7mMqB7CXY+xlwD2Prqb+toqBpz6T2ez/QBpUuDgA==",
+  "dgSpecHash": "oQwMV9z+fTuKFQdrIb/ndmcGdQPh6QGW+4yKmAgwplRcwrBnJSy6btYx6irMbrKhcs+0tJKG8BoLFQCTP5aZ7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
+  "projectFilePath": "C:\\ContosoPizza\\ContosoPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.4\\microsoft.data.sqlite.core.7.0.4.nupkg.sha512",

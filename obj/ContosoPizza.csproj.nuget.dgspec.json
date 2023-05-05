@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\1\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1\\mslearn-persist-data-ef-core\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
